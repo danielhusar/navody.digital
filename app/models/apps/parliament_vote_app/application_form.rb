@@ -1,7 +1,7 @@
 module Apps
   module ParliamentVoteApp
     class ApplicationForm
-      DELIVERY_BY_POST_DEADLINE_DATE = Date.new(2019, 5, 3)
+      DELIVERY_BY_POST_DEADLINE_DATE = Date.new(2020, 5, 3)
 
       include ActiveModel::Model
 
